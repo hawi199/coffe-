@@ -27,7 +27,7 @@ The project focuses on creating a modern, user-friendly design using HTML, CSS, 
 
 Add your website screenshots here.
 
-![image alt](
+![image alt](https://github.com/hawi199/coffe-/blob/a8d91b868c254c0dbc81202e40fa357317c5fcd4/coffee1.png)
 
 ## 🚀 How to Run the Project
 
@@ -66,7 +66,7 @@ This project was created to improve my frontend web development skills and pract
 
 **Hawi**
 
-- GitHub: [My GitHub Profile](https://github.com/YOUR-USERNAME)
+- GitHub: [My GitHub Profile](https://github.com/hawi199)
 
 ## 📄 License
 
